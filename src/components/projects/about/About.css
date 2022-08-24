@@ -1,11 +1,12 @@
 .about{
     width: 90%;
     margin: auto;
-    padding: 50px;
 }
 .avatar{
     margin: auto;
     width: 208px;
     margin-left: 50%;
     translate: -50%;
+    margin-bottom: 5px;
+    margin-top: 10px;
 }
