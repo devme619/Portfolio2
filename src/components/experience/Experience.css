@@ -1,10 +1,12 @@
 .experience{
     justify-content: center;
-    width: 100%;
+    width: 90%;
     font-family: 'Alumni Sans Pinstripe';
     font-size: xx-large;
     margin-top: 49px;
     border: #eaeaea solid;
+    margin: auto;
+    margin-top: 81px;
 }
 h3{
     display: flex;
@@ -16,6 +18,7 @@ h3{
     grid-template-columns: 1fr 1fr;
     width: 86%;
     margin: auto;
+    margin-bottom: 35px;
 }
 @media(max-width:900px){
     .experience-list{

@@ -1,12 +1,13 @@
 .projects{
     justify-content: center;
-    width: 100%;
+    width: 90%;
     font-family: 'Alumni Sans Pinstripe';
     font-size: xx-large;
     font-weight: 600;
     margin-top: 49px;
     border: #eaeaea solid;
     box-shadow: 3px 1px 15px 0px black;
+    margin: auto;
 }
 h3{
     display: flex;
@@ -18,4 +19,5 @@ h3{
     grid-template-columns: 1fr;
     width: 86%;
     margin: auto;
+    margin-bottom: 35px;
 }

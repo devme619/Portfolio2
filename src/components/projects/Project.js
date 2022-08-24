@@ -8,7 +8,7 @@ import Pixabay from './pixabay/Pixabay'
 import './Project.css'
 const Project = () => {
   return (
-    <div id='projects' style={{marginTop: '125px'}}>
+    <div id='projects'  style={{marginTop: '125px', width:'90%', margin:'auto'}}>
     <Card className="projects">
       <h3>Projects</h3>
       <div className="project-list">
