@@ -7,7 +7,7 @@ import Pentair from "./Pentair";
 
 const Experience = () => {
   return (
-    <div id="experience" style={{border: '#eaeaea solid', boxShadow: 'black 3px 4px 20px 0px;'}}>
+    <div id="experience" style={{border: '#eaeaea solid'}}>
       <Card className="experience">
         <h3>Experience</h3>
         <div className="experience-list">
