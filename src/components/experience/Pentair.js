@@ -4,7 +4,7 @@ import './Pentair.css'
 const Pentair = () => {
   return (
     <div className="pentair">
-      <div className="image">
+      <div className="image-pentair">
         <img src={pentair} alt="pentair" />
       </div>
       <div className="content">

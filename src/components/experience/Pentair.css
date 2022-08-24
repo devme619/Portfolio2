@@ -9,12 +9,13 @@ img{
     display: flex;
     padding: 10px;
 }
-.image{
-    margin-left: 3px;
+.image-pentair{
+    margin-left: 5px;
+    margin-top: 25px;
 
 }
 .content{
-    /* margin-left: 5px; */
+    margin-left: 20px;
 }
 p{
     font-size: 22px;

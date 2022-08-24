@@ -4,10 +4,10 @@ import bits from '../../Photos/bits.png'
 const Bits = () => {
   return (
     <div className="bits">
-      <div className="image">
+      <div className="image-bits">
         <img src={bits} alt="bits" />
       </div>
-      <div className="content">
+      <div className="content-bits">
         <h5 className="heading-bits">BITS PILANI</h5>
         <p>B.E Mechanical Engineering</p>
         <p>2016-2020</p>

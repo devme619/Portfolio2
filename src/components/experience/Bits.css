@@ -9,13 +9,13 @@ img{
     display: flex;
     padding: 10px;
 }
-.image{
+.image-bits{
     margin-left: 5px;
 
 }
-.content{
-    /* margin-left: 5px; */
-}
 p{
     font-size: 22px;
+}
+.content-bits{
+    margin-left: 30px;
 }
