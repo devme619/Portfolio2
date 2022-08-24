@@ -11,7 +11,7 @@ const Contact = () => {
         <div className='logos'>
             <a rel="noopener noreferrer" target='blank' href='https://www.linkedin.com/in/devendra-pratap-singh-620b73156/'><LinkedInIcon fontSize='large' color=''/></a>
             <a rel="noopener noreferrer" target='blank' href='https://www.instagram.com/de_call_me_dev/'><InstagramIcon fontSize='large'/></a>
-            <a rel="noopener noreferrer" target='blank' href='https://mail.google.com/mail/f2016404p@alumni.bits-pilani.ac.in'><EmailIcon fontSize='large'/></a>
+            <a rel="noopener noreferrer" target='blank' href='mailto: f2016404p@alumni.bits-pilani.ac.in'><EmailIcon fontSize='large'/></a>
 
         </div>
     </div>
