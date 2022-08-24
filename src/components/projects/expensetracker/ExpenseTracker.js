@@ -9,7 +9,7 @@ const ExpenseTracker = () => {
         <p>
           Add your daily expenses and compare them with every months expenses.
         </p>
-        <a target='blank' href="https://github.com/devme619/Expense-Tracker"><GitHubIcon/></a>
+        <a target='blank' href="https://github.com/devme619/Expense-Tracker"><GitHubIcon fontSize="large"/></a>
       </div>
     </div>
   )

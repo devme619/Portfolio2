@@ -15,7 +15,7 @@ const AmazonReviews = () => {
           Random Forest model and got an accuracy of around 76 percent.
         </p>
         <a target="blank" href="https://github.com/devme619/ML--Amazon-Reviews">
-          <GitHubIcon />
+          <GitHubIcon fontSize="large"/>
         </a>
       </div>
     </div>

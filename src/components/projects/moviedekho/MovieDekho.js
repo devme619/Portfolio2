@@ -14,7 +14,7 @@ const MovieDekho = () => {
           bottom navbar with four options as trending, movies, tv series and
           search.
         </p>
-        <a target='blank' href="https://movie-dekho.netlify.app/"><MovieCreationIcon/></a>
+        <a target='blank' href="https://movie-dekho.netlify.app/"><MovieCreationIcon fontSize="large"/></a>
       </div>
     </div>
   );

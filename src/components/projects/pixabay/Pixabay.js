@@ -9,7 +9,7 @@ const Pixabay = () => {
         <p>
           Search Images through Pixabay API.
         </p>
-        <a target='blank' href="https://github.com/devme619/Pixabay"><GitHubIcon/></a>
+        <a target='blank' href="https://github.com/devme619/Pixabay"><GitHubIcon fontSize="large"/></a>
       </div>
     </div>
   )
