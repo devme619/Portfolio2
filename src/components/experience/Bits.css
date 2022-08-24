@@ -4,7 +4,7 @@
 }
 img{
     width: 100px;
-    margin-top: 15px;
+    margin-top: 18px;
 }
 .bits{
     display: flex;
@@ -17,5 +17,5 @@ p{
     font-size: 22px;
 }
 .content-bits{
-    margin-left: 40px;
+    margin-left: 45px;
 }
