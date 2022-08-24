@@ -1,13 +1,13 @@
 .projects{
     justify-content: center;
-    width: 90%;
+    width: 100%;
     font-family: 'Alumni Sans Pinstripe';
     font-size: xx-large;
     font-weight: 600;
-    margin-top: 49px;
     border: #eaeaea solid;
     box-shadow: 3px 1px 15px 0px black;
     margin: auto;
+    margin-top: 100px;
 }
 h3{
     display: flex;

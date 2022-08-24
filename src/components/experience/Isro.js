@@ -9,7 +9,7 @@ const Isro = () => {
       </div>
       <div className="content">
         <h5 className="heading-isro">INDIAN SPACE RESEARCH ORGANISATION</h5>
-        <p>Scientist/Engineer- Mechanical</p>
+        <p>Scientist(Group A-Gazetted Officer)- Mechanical</p>
         <p>2020-Present</p>
       </div>
     </div>

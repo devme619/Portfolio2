@@ -14,7 +14,7 @@ h3{
 }
 .experience-list{
     display: grid;
-    gap: 30px;
+    gap: 50px;
     grid-template-columns: 1fr 1fr;
     width: 86%;
     margin: auto;
