@@ -2,3 +2,9 @@
     scroll-behavior: smooth;
     font-weight: 600;
 }
+a{
+    text-decoration: none;
+}
+h3{
+    font-weight: 900;
+}
