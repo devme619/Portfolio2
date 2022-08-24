@@ -7,9 +7,12 @@ img{
 }
 .isro{
     display: flex;
+    padding: 10px;
 }
 .image{
-    margin: auto;
+    
+    margin-left: 3px;
+
 }
 .content{
     /* margin-left: 5px; */

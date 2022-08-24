@@ -8,7 +8,7 @@ const About = () => {
       <Card>
         <img className='avatar' src={avatar} alt='dev'></img>
         <div>
-            <p style={{fontFamily:'cursive', textAlign:'center'}}>Hey there 👋 I'm Devendra Pratap Singh 👨‍💻</p>
+            <p style={{fontFamily:'cursive', textAlign:'center'}}>Hey! I'm Devendra Pratap Singh</p>
         </div>
       </Card>
     </div>

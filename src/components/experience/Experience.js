@@ -12,8 +12,9 @@ const Experience = () => {
         <h3>Experience</h3>
         <div className="experience-list">
           <Card><Isro/></Card>
-          <Card><Pentair/></Card>
           <Card><Bits/></Card>
+          <Card><Pentair/></Card>
+          
         </div>
       </Card>
     </div>
