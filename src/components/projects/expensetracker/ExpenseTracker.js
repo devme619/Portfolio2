@@ -7,7 +7,7 @@ const ExpenseTracker = () => {
       <div className="content">
         <h5 className="heading-expensetracker">Expense Tracker</h5>
         <p>
-          Add your daily expenses and compare them with every months expenses.
+          Add your daily expenses and compare them with other months expenses.
         </p>
         <a target='blank' href="https://github.com/devme619/Expense-Tracker"><GitHubIcon fontSize="large"/></a>
       </div>
