@@ -1,5 +1,6 @@
 import React from 'react'
 import GitHubIcon from '@mui/icons-material/GitHub';
+import './ExpenseTracker.css'
 const ExpenseTracker = () => {
   return (
     <div className="expensetracker">
