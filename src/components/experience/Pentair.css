@@ -1,0 +1,19 @@
+.heading-pentair{
+    font-size: 4vh;
+    margin: auto;
+}
+img{
+    width: 100px;
+}
+.pentair{
+    display: flex;
+}
+.image{
+    margin: auto;
+}
+.content{
+    /* margin-left: 5px; */
+}
+p{
+    font-size: 22px;
+}

@@ -1,0 +1,15 @@
+.contact{
+
+}
+.logos{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+.head{
+    width: fit-content;
+    margin: auto;
+    margin-top: 110px;
+    font-family: cursive;
+}

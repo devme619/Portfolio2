@@ -1,0 +1,19 @@
+.heading-isro{
+    font-size: 4vh;
+    margin: auto;
+}
+img{
+    width: 100px;
+}
+.isro{
+    display: flex;
+}
+.image{
+    margin: auto;
+}
+.content{
+    /* margin-left: 5px; */
+}
+p{
+    font-size: 22px;
+}

@@ -1,0 +1,10 @@
+.about{
+    width: 100%;
+    margin: auto;
+}
+.avatar{
+    margin: auto;
+    width: 208px;
+    margin-left: 50%;
+    translate: -50%;
+}

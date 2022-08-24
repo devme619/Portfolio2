@@ -1,0 +1,22 @@
+.heading-expensetracker{
+    font-size: 5vh;
+    margin: auto;
+}
+img{
+    width: 100px;
+}
+.expensetracker{
+    display: flex;
+}
+.image{
+    margin: auto;
+}
+.content{
+    /* margin-left: 5px; */
+}
+p{
+    font-size: 22px;
+}
+a{
+    font-size: smaller;
+}

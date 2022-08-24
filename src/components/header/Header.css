@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    display: flex;
+    border: #eaeaea solid;
+    box-shadow: 3px 1px 15px 0px black;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: xx-large;
+    justify-content: space-evenly;
+}
+.name{
+    margin-right: 40px;
+    margin-left: 25px;
+}
+@media(max-width:500px){
+    .header{
+        font-size: medium;
+    }
+    a{
+        padding-bottom: 41px;
+    }
+    .name{
+        padding-top: 22px;
+    }
+}
+a{
+    padding-top: 41px;
+}
