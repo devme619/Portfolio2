@@ -7,6 +7,8 @@ img{
 }
 .expensetracker{
     display: flex;
+    padding: 20px;
+
 }
 .image{
     margin: auto;
