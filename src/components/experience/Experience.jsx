@@ -1,9 +1,9 @@
 import { Card } from "@mui/material";
-import React from "react";
 import Bits from "./Bits";
 import "./Experience.css";
 import Isro from "./Isro";
 import Pentair from "./Pentair";
+import Sunking from "./Sunking";
 
 const Experience = () => {
   return (
@@ -11,10 +11,18 @@ const Experience = () => {
       <Card className="experience">
         <h3>Experience</h3>
         <div className="experience-list">
-          <Card><Isro/></Card>
-          <Card><Bits/></Card>
-          <Card><Pentair/></Card>
-          
+          <Card>
+            <Sunking />
+          </Card>
+          <Card>
+            <Isro />
+          </Card>
+          <Card>
+            <Bits />
+          </Card>
+          <Card>
+            <Pentair />
+          </Card>
         </div>
       </Card>
     </div>
